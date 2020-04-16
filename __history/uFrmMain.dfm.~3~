@@ -1,0 +1,155 @@
+object FrmExemplo: TFrmExemplo
+  Left = 0
+  Top = 0
+  Caption = 'FrmExemplo'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object GBCarro: TGroupBox
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 153
+    Align = alTop
+    Caption = 'Carro'
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 24
+      Top = 53
+      Width = 46
+      Height = 13
+      Caption = 'Descri'#231#227'o'
+    end
+    object Label2: TLabel
+      Left = 256
+      Top = 53
+      Width = 56
+      Height = 13
+      Caption = 'Capacidade'
+    end
+    object Label3: TLabel
+      Left = 488
+      Top = 53
+      Width = 72
+      Height = 13
+      Caption = 'Quilometragem'
+    end
+    object EDescCarro: TEdit
+      Left = 24
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 0
+      TextHint = 'EditDesCarro'
+    end
+    object ECapCarro: TEdit
+      Left = 256
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 1
+      TextHint = 'EditCapCarro'
+    end
+    object EQuilometragemCarro: TEdit
+      Left = 488
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 2
+      TextHint = 'EditQuilometragemCarro'
+    end
+    object BCriarCarro: TButton
+      Left = 24
+      Top = 112
+      Width = 121
+      Height = 34
+      Caption = 'Criar'
+      TabOrder = 3
+    end
+    object BLiberarCarro: TButton
+      Left = 488
+      Top = 112
+      Width = 121
+      Height = 34
+      Caption = 'Liberar'
+      TabOrder = 4
+    end
+  end
+  object GBAviao: TGroupBox
+    Left = 0
+    Top = 152
+    Width = 627
+    Height = 145
+    Caption = 'Avi'#227'o'
+    TabOrder = 1
+    object Label4: TLabel
+      Left = 24
+      Top = 53
+      Width = 46
+      Height = 13
+      Caption = 'Descri'#231#227'o'
+    end
+    object Label5: TLabel
+      Left = 256
+      Top = 53
+      Width = 56
+      Height = 13
+      Caption = 'Capacidade'
+    end
+    object Label6: TLabel
+      Left = 488
+      Top = 53
+      Width = 72
+      Height = 13
+      Caption = 'Quilometragem'
+    end
+    object EDescAviao: TEdit
+      Left = 24
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 0
+      TextHint = 'EditDesAviao'
+    end
+    object ECapAviao: TEdit
+      Left = 256
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 1
+      TextHint = 'EditCapAviao'
+    end
+    object EQuilometragemAViao: TEdit
+      Left = 488
+      Top = 72
+      Width = 121
+      Height = 21
+      TabOrder = 2
+      TextHint = 'EditQuilometragemAviao'
+    end
+    object BCriarAviao: TButton
+      Left = 24
+      Top = 112
+      Width = 121
+      Height = 30
+      Caption = 'Criar'
+      TabOrder = 3
+    end
+    object BLiberarAviao: TButton
+      Left = 488
+      Top = 112
+      Width = 121
+      Height = 30
+      Caption = 'Liberar'
+      TabOrder = 4
+    end
+  end
+end

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/02 13:29:11.000.223,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:19:39.000.872,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:20:22.000.530,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 13:26:36.000.543,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 15:21:57.086,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 15:22:38.808,C:\Users\Desktop\Documents\Exemplo\uFrmMain.dfm=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/15 15:22:38.808,C:\Users\Desktop\Documents\Exemplo\uFrmMain.pas=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 15:23:04.472,C:\Users\Desktop\Documents\Exemplo\ExemploPOO.dproj=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/04/15 15:52:25.241,=C:\Users\Desktop\Documents\Exemplo\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 15:52:29.383,=C:\Users\Desktop\Documents\Exemplo\Unit2.pas</Transaction>
+    <Transaction>2020/04/15 16:08:29.038,C:\Users\Desktop\Documents\Delphi Curso\ExemploPOO\uCarro.pas=C:\Users\Desktop\Documents\Exemplo\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 16:08:35.007,C:\Users\Desktop\Documents\Exemplo\uAviao.pas=C:\Users\Desktop\Documents\Exemplo\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

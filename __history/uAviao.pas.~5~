@@ -1,0 +1,22 @@
+unit uAviao;
+
+interface
+
+uses Dialogs;
+
+type
+  TAviao = Class
+    Descricao : String;
+    Capacidade : Integer;
+    HorasVoo : Integer;
+    procedure Mover;
+  End;
+
+implementation
+
+procedure TAviao.Mover;
+begin
+  ShowMessage(Descricao + ' entrou em movimento.');
+end;
+
+end.
